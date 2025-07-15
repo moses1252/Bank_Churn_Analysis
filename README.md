@@ -15,7 +15,7 @@ This data analysis project explores the churn rate of a fictional bank using SQL
 
 To simulate a real world business environment, I used ChatGPT to act as a Product Manager and as a Stakeholder to define business goals and KPIs. This project was completed entirely without following any YouTube tutorials, allowing me to demonstrate my independent problem solving skills and ability to manage a data project from start to finish. It serves as a showcase of my growing skill set as an aspiring data analyst.
 
-Put dashboard picture here
+![Dashboard](final_dashboard.JPG)
 
 
 ### Data Sources
